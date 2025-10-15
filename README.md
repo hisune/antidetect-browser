@@ -40,7 +40,7 @@
         
     3.  功能：目前还在内测阶段，功能还没开发完，但看官网介绍，该有的功能都会有，并且有云手机
    
-    4.  积攒了20个特邀码，使用即可获取20个免费环境：tHpHjRGQSHCM,hH6VQmwqNR3Z,M3Wcg5qhA7xR,J5nB3wVquMBX,7yzTP5y5d6bS,UjE84Hf49p5G,HiDc5ZXbM6Wx,VDxrtNzD4uRH,XNSxGSet56Ua,ugse6PNSQ3UQ,atejwNe4yCRa,SfzU5TsriibJ,vb9JEuG3V2d8,qxPMB7MWKu4f,i6FmGVzYEjmH,GXc524asY54B,jT2P69Zcxjt6,bf8N52AcH6Yw,eF4h99A5eZax,cxdqqxzNPDBP
+    4.  积攒了30个特邀码，使用即可获取20个免费环境：fDG7KEWti6mc,GPebtqEfAChv,yeuuShJGVfax,mUR9aDxJQZX4,4mabGjDJQ6YH,7Vy4saSJ36g3,8RSFW3HYWFfm,6h758k3eRi2N,tYeEGjuxkGcQ,Tx5NUGxZQ7m8,JtQEUMBahFDm,KMNUSV6iH5cE,uvnbGknDa6eK,jMXUefHyrZCP,fK7nqJmbCaV7,FQsYuBbXSVzR,isKXAVVpXvmu,xrddvKteiQ55,NN2emKSgSi3F,fG88MJV9kpn5,Ptk4vuGMQJrh,EjcFtg4Q46vh,3PY3ekvbtmCb,bFwqh3u7bgjh,aMFXxdqVMKUj,BxHEGYeBMUXR,KfX4h9M4Wmiz,fDZDYbRkhD4n,asD6c3mTSr4q,uejDWQnGtAmU
         
 3.  gologin（界面不是那么友好）
     
